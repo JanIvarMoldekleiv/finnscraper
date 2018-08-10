@@ -8,3 +8,6 @@ finnscrape.exe "server=localhost;database=master;integrated security=SSPI"  "eng
 - Connectionstring to database (the database finn will be created at first run)
 - the filter (copy from finn after having made a search)
 
+#Requirements
+- .net Core 2.1
+- https://www.microsoft.com/net/download/dotnet-core/
