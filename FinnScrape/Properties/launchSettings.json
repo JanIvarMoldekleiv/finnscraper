@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FinnScrape": {
+      "commandName": "Project",
+      "commandLineArgs": "\"server=localhost;database=master;user id=SA;password=pASADMIN1234\" \"engine_effect_from=100&engine_volume_from=600&mileage_to=90000\""
+    }
+  }
+}
