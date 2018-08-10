@@ -1,4 +1,4 @@
-# Simpe MC scraper
+# Simple MC scraper
 > Hacked together.....
 
 Build and run
